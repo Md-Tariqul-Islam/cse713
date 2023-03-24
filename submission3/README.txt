@@ -18,6 +18,7 @@ Link to the book:
 https://www.amazon.com/Data-Science-Machine-Learning-Mathematical/dp/1138492531
 
 Link to the book chapter:
+8 - Decision Trees and Ensemble Methods
 https://drive.google.com/file/d/1QHwnNz5Q9n68m-pH3_hZcVA-gCg34ikp/view
 
 Group Number:
