@@ -1,14 +1,12 @@
 Overleaf link:
-https://www.overleaf.com/9231929163kjwdrvkydvgd
+https://www.overleaf.com/read/cpbyqxzfyxrm
 
 Unlisted YouTube video:
 https://youtu.be/mz1q6wk4dCc
 
 Paper title:
-Advance CNN methods applied to the classification of diseases in sunflower.
+Advance CNN methods applied to the classification of diseases in sunflower.  Final Tile: TTL : Transformer and Transfer Learning Approach  To Detect Sunflower Disease Conference Link : 6th International Conference on Electrical Information and Communication Technology "
 
-Public link to the slide:
-https://docs.google.com/presentation/d/1nniooxR_89oq6sF_iinIyILJJBupAVqpvqmwpbtdfgI/edit?usp=sharing
 
 Group Number:
 02
